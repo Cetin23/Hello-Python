@@ -1,3 +1,5 @@
+#Learn Python Coding 
+
 import os #Operatin System -Module
 os.system('clear') # Funktinon- Sytsem call- We pass a argument 
 
@@ -13,6 +15,9 @@ fav_pizza = {
 	"John": "Pepperoni",
 	"Bob":  "Mushroom",
 	"Mary": "Cheese"
-}#Dictinaries
+}#Dictinaries Key and values
+
+name = True # Boolean
+
 
 print (fav_pizza["John"])
